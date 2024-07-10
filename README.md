@@ -12,6 +12,7 @@ Hello! Welcome. This Repository is dedicated to Core System Design Concepts Prov
 3. [What is Capacity Estimation ?](https://jaspreetsodhi02.medium.com/capacity-estimation-in-system-design-c2cb13281124)
 4. [What happens when you enter www.google.com ?](https://jaspreetsodhi02.medium.com/what-happens-when-you-enter-www-google-com-or-any-website-d32f76b5f08d)
 5. [Latency Vs Throughput](https://jaspreetsodhi02.medium.com/latency-vs-throughput-2903ed81601e)
+6. [Decoding CAP Theorem: The Core of Distributed Systems Made Simple](https://jaspreetsodhi02.medium.com/decoding-cap-theorem-the-core-of-distributed-systems-made-simple-282f0964a794)
 
 ### Complete Reading List : [Don't click this !!](https://jaspreetsodhi02.medium.com/list/system-design-series-f5054fed26fd)
 
