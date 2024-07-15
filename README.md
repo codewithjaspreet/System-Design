@@ -14,7 +14,8 @@ Hello! Welcome. This Repository is dedicated to Core System Design Concepts Prov
 5. [Latency Vs Throughput](https://jaspreetsodhi02.medium.com/latency-vs-throughput-2903ed81601e)
 6. [Decoding CAP Theorem: The Core of Distributed Systems Made Simple](https://jaspreetsodhi02.medium.com/decoding-cap-theorem-the-core-of-distributed-systems-made-simple-282f0964a794)
 7. [Understanding ACID Properties in Databases: A Developer’s Guide](https://medium.com/@jaspreetsodhi02/understanding-acid-properties-in-databases-a-developers-guide-82e81dcb02f8)
-
+8. [Hashing and Consistent Hashing : Simplifying Data Management and Distribution](https://jaspreetsodhi02.medium.com/hashing-and-consistent-hashing-simplifying-data-management-and-distribution-1c662ad0d32a)
+9. [Guarding the Gates: How Rate Limiting Ensures Fair Access and Security in Cyberspace](https://jaspreetsodhi02.medium.com/guarding-the-gates-how-rate-limiting-ensures-fair-access-and-security-in-cyberspace-e935b2fafc8b)
 ### Complete Reading List : [Don't click this !!](https://jaspreetsodhi02.medium.com/list/system-design-series-f5054fed26fd)
 
 ## Open for Contributions
