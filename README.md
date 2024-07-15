@@ -10,7 +10,7 @@ Hello! Welcome. This Repository is dedicated to Core System Design Concepts Prov
 
 ## Blog Series
 
-## Series 1: UnderStanding Key Concepts 🚀
+## Series 1: Understanding Key Concepts 🚀
 1. [Introduction to System Design](https://jaspreetsodhi02.medium.com/beginner-friendly-introduction-to-system-design-f19bcc2f6e72)
 2. [Horizontal vs Vertical Scaling](https://jaspreetsodhi02.medium.com/horizontal-vs-vertical-scaling-simplified-64ad7185709c)
 3. [What is Capacity Estimation ?](https://jaspreetsodhi02.medium.com/capacity-estimation-in-system-design-c2cb13281124)
