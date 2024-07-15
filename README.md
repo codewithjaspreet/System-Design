@@ -1,8 +1,10 @@
 # System Design for SDE Interviews
 
-## Introduction
-![Microsite Development Concept](https://github.com/user-attachments/assets/cc5ae06d-9cd3-4ac2-91cb-02d2aed62319)
 
+<p align="center">
+
+  <img src="https://github.com/user-attachments/assets/a777e351-7807-4721-8552-617a42d96288" width="600" height="400">
+</p>
 
 Hello! Welcome. This Repository is dedicated to Core System Design Concepts Provided In the form of Medium Blog Links written by me from the very beginning. Here, you will find various resources, blog series, & Practice problems which will be added consistently  !
 
