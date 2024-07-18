@@ -22,6 +22,7 @@ Hello! Welcome. This Repository is dedicated to Core System Design Concepts Prov
 9. [Guarding the Gates: How Rate Limiting Ensures Fair Access and Security in Cyberspace](https://jaspreetsodhi02.medium.com/guarding-the-gates-how-rate-limiting-ensures-fair-access-and-security-in-cyberspace-e935b2fafc8b)
 10. [Mastering REST API Design: Best Practices for Clean and Effective APIs](https://jaspreetsodhi02.medium.com/mastering-rest-api-design-best-practices-for-clean-and-effective-apis-efc70cdf996a)
 11. [Understanding Eventual vs. Strong Consistency in Databases](https://jaspreetsodhi02.medium.com/understanding-eventual-vs-strong-consistency-in-databases-f3c23c77d26a)
+12. [Understanding Synchronous & Asynchronous Communications](https://medium.com/@jaspreetsodhi02/understanding-synchronous-asynchronous-communication-2bb877f57c59)
 ### Complete Reading List : [Don't click this !!](https://jaspreetsodhi02.medium.com/list/system-design-series-f5054fed26fd)
 
 ## Open for Contributions
