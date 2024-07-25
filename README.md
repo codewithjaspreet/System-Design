@@ -28,6 +28,15 @@ Hello! Welcome. This Repository is dedicated to Core System Design Concepts Prov
 2. [Understanding Eventual vs. Strong Consistency in Databases](https://jaspreetsodhi02.medium.com/understanding-eventual-vs-strong-consistency-in-databases-f3c23c77d26a)
 3. [Understanding Synchronous & Asynchronous Communications](https://medium.com/@jaspreetsodhi02/understanding-synchronous-asynchronous-communication-2bb877f57c59)
 4. [Horizontal vs Vertical Scaling](https://jaspreetsodhi02.medium.com/horizontal-vs-vertical-scaling-simplified-64ad7185709c)
+
+
+
+
+## Series 3: System Design Building Blocks 🚀
+
+1. [A Comprehensive Guide to 15 Common Types of Databases and Their Use Cases](https://jaspreetsodhi02.medium.com/a-comprehensive-guide-to-15-common-types-of-databases-and-their-use-cases-ab4aaff49a6d)
+
+
 ### Complete Reading List : [Don't click this !!](https://jaspreetsodhi02.medium.com/list/system-design-series-f5054fed26fd)
 
 ## Open for Contributions
