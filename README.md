@@ -35,6 +35,7 @@ Hello! Welcome. This Repository is dedicated to Core System Design Concepts Prov
 ## Series 3: System Design Building Blocks 🚀
 
 1. [A Comprehensive Guide to 15 Common Types of Databases and Their Use Cases](https://jaspreetsodhi02.medium.com/a-comprehensive-guide-to-15-common-types-of-databases-and-their-use-cases-ab4aaff49a6d)
+2. [Understanding CDNs: How to Deliver Content Fast and Globally](https://jaspreetsodhi02.medium.com/understanding-cdns-how-to-deliver-content-fast-and-globally-ea8c2d688520)
 
 
 ### Complete Reading List : [Don't click this !!](https://jaspreetsodhi02.medium.com/list/system-design-series-f5054fed26fd)
