@@ -36,8 +36,8 @@ Hello! Welcome. This Repository is dedicated to Core System Design Concepts Prov
 
 1. [A Comprehensive Guide to 15 Common Types of Databases and Their Use Cases](https://jaspreetsodhi02.medium.com/a-comprehensive-guide-to-15-common-types-of-databases-and-their-use-cases-ab4aaff49a6d)
 2. [Understanding CDNs: How to Deliver Content Fast and Globally](https://jaspreetsodhi02.medium.com/understanding-cdns-how-to-deliver-content-fast-and-globally-ea8c2d688520)
-
-
+3. [The Magic Behind the Web: A Simple Guide to DNS](https://jaspreetsodhi02.medium.com/the-magic-behind-the-web-a-simple-guide-to-dns-ed5f518ef9e0)
+4. [Caching Simplified: Effective Eviction and Invalidation Policies with Real-Life Examples](https://jaspreetsodhi02.medium.com/caching-simplified-effective-eviction-and-invalidation-policies-with-real-life-examples-137012f638ca)
 ### Complete Reading List : [Don't click this !!](https://jaspreetsodhi02.medium.com/list/system-design-series-f5054fed26fd)
 
 ## Open for Contributions
